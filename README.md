@@ -1,1 +1,1 @@
-# data-stick-insight
+Just saving data json for stock insight data
