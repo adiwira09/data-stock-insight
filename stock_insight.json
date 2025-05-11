@@ -2,43 +2,43 @@
     "stocks": [
         {
             "ticker": "ASII",
-            "sentimen_fundamental": "Strong (dengan catatan perlambatan pertumbuhan). Analisis fundamental menunjukkan kinerja keuangan yang solid dengan pertumbuhan pendapatan dan laba bersih yang positif meskipun melambat. ROE dan ROA yang tinggi, DER rendah, serta PE dan PBV ratio yang rendah mengindikasikan potensi undervaluation.  Namun, perlu dipertimbangkan payout ratio yang tinggi dan potensi perlambatan pertumbuhan di masa depan.",
-            "sentimen_teknikal": "Sideways (jangka pendek bearish, jangka menengah sideways). Analisis teknikal menunjukkan sinyal yang beragam.  Meskipun ada golden cross sebelumnya, indikator MACD bearish dan RSI netral mengindikasikan potensi pelemahan harga jangka pendek.  Jangka menengah diprediksi sideways dengan volatilitas rendah.",
-            "sentimen_berita": "Netral. Tidak ada informasi berita yang tersedia untuk analisis.",
-            "insight": "Secara keseluruhan, analisis fundamental menunjukkan potensi undervaluation saham ASII, didukung oleh kinerja keuangan yang baik meskipun ada perlambatan pertumbuhan.  Namun, analisis teknikal menunjukkan ketidakpastian arah harga dalam jangka pendek.  Rekomendasi investasi membutuhkan pertimbangan yang matang, dengan pemantauan ketat terhadap perkembangan harga dan berita terkini.  Strategi konservatif dengan time horizon menengah hingga panjang direkomendasikan.  Diversifikasi portofolio tetap penting untuk meminimalkan risiko.",
-            "created_at": "2025-05-10 20:57:28"
+            "sentimen_fundamental": "Strong. ASII menunjukkan pertumbuhan yang konsisten (meskipun melambat), profitabilitas yang tinggi (ROE dan ROA), manajemen hutang yang baik (DER), dan kebijakan dividen yang menarik. Metrik valuasi (PE dan PBV) menunjukkan potensi undervaluasi.",
+            "sentimen_teknikal": "Sideways (jangka pendek bearish, jangka menengah sideways). Sinyal teknikal mixed. Golden cross historis namun tren jangka pendek bearish lemah. Harga mendekati support.",
+            "sentimen_berita": "Netral.  Tidak ada informasi berita terkini yang tersedia untuk analisis.",
+            "insight": "Meskipun sinyal teknikal jangka pendek bearish, analisis fundamental yang kuat menunjukkan potensi undervaluasi ASII.  Dividend yield yang tinggi juga menarik.  Strategi konservatif disarankan, menunggu konfirmasi tren bullish sebelum melakukan pembelian.  Monitoring harga dan indikator teknikal diperlukan.",
+            "created_at": "2025-05-12 01:17:18"
         },
         {
             "ticker": "MEDC",
-            "sentimen_fundamental": "Netral. Pertumbuhan pendapatan dan laba fluktuatif, ROE, ROA, dan DER juga fluktuatif. Rasio PE rendah (4.50) mengindikasikan potensi undervaluasi, namun rasio PBV sangat tinggi (12882.35). Data tahun 2023 tidak lengkap, sehingga analisis fundamental terbatas.",
-            "sentimen_teknikal": "Bullish (jangka pendek dan menengah). Tren bullish kuat, didukung oleh golden cross, harga di atas EMA 20, dan MACD bullish. RSI mendekati overbought, menunjukkan potensi koreksi jangka pendek.",
-            "sentimen_berita": "Positif. Penerbitan obligasi USD400 juta menunjukkan posisi keuangan yang solid dan kepercayaan investor.",
-            "insight": "Meskipun analisis fundamental menunjukkan sinyal yang beragam karena data yang tidak lengkap, sinyal bullish yang kuat dari analisis teknikal dan sentimen positif dari berita pasar mendukung pandangan bullish untuk saham MEDC dalam jangka pendek dan menengah.  Namun, potensi koreksi jangka pendek perlu dipertimbangkan.  Penting untuk memantau data fundamental yang lebih lengkap untuk tahun 2023 dan perkembangan pasar selanjutnya.",
-            "created_at": "2025-05-10 20:59:01"
+            "sentimen_fundamental": "Netral.  Fundamental MEDC menunjukkan gambaran yang kompleks. Pertumbuhan pendapatan dan laba yang tinggi di tahun 2022 diikuti oleh data yang tidak lengkap di tahun 2023. Ketidakstabilan ROE dan ROA, serta DER yang relatif tinggi (1.52 di 2024) menimbulkan kekhawatiran.  Meskipun PE Ratio rendah (4.50) dan dividend yield tinggi (4.12%), PBV Ratio yang sangat tinggi (12882.35) mengindikasikan valuasi yang mahal. Analisis lebih lanjut dibutuhkan untuk menilai kesehatan keuangan jangka panjang dan pertumbuhan.",
+            "sentimen_teknikal": "Bullish (Jangka Pendek dan Menengah). Analisis teknikal menunjukkan sinyal bullish yang kuat dengan golden cross, harga di atas EMA 20, dan MACD bullish. Meskipun RSI mendekati overbought (61.14), momentum masih meningkat.  Target harga jangka pendek (1 minggu): sekitar 1104.28 (+0.85%). Target harga jangka menengah (1 bulan): sekitar 1113.56 (+1.69%). Namun, perlu diwaspadai potensi koreksi harga.",
+            "sentimen_berita": "Netral. Berita tentang MEDC menerbitkan obligasi USD400 juta menunjukkan upaya perusahaan untuk mengelola utang. Berita ini bisa dilihat positif karena menunjukkan langkah proaktif dalam kesehatan keuangan, namun dampaknya terhadap harga saham masih perlu diamati.  Berita pasar menunjukkan IHSG positif, namun investor asing mencatatkan net sell.",
+            "insight": "Analisis gabungan menunjukkan gambaran yang beragam untuk MEDC.  Sinyal teknikal sangat bullish, mendukung kenaikan harga jangka pendek dan menengah.  Namun, analisis fundamental menunjukkan ketidakpastian dan potensi risiko yang perlu dipertimbangkan.  Valuasi yang tinggi dan ketidakstabilan kinerja keuangan di masa lalu menimbulkan kekhawatiran.  Penerbitan obligasi baru menunjukkan langkah pengelolaan utang yang positif, namun dampaknya terhadap sentimen pasar belum jelas.  Rekomendasi:  Tunggu dan amati (wait and see) hingga ada kejelasan lebih lanjut mengenai kinerja keuangan MEDC di tahun 2023 dan prospek pertumbuhan jangka panjang.  Jika harga turun ke support terdekat (sekitar 990), pertimbangkan untuk membeli dengan stop loss di bawah support terendah (sekitar 875).  Target profit dapat disesuaikan berdasarkan pergerakan harga dan indikator teknikal.",
+            "created_at": "2025-05-12 01:18:50"
         },
         {
             "ticker": "WSKT",
-            "sentimen_fundamental": "Tidak Tersedia",
-            "sentimen_teknikal": "Netral (Data Terbatas); Analisis teknikal menunjukkan hasil yang netral atau tidak pasti karena kurangnya data harga yang memadai (volume 0, harga konstan). Semua indikator menunjukkan hasil yang tidak dapat diandalkan.",
-            "sentimen_berita": "Tidak Tersedia",
-            "insight": "Analisis investasi untuk WSKT sangat terbatas karena kurangnya data fundamental dan data teknikal yang tidak memadai.  Rekomendasi investasi tidak dapat diberikan karena tingginya ketidakpastian dan risiko.  Data tambahan diperlukan sebelum analisis yang lebih berarti dapat dilakukan.",
-            "created_at": "2025-05-10 21:00:24"
+            "sentimen_fundamental": "Tidak dapat dinilai karena data keuangan yang diperlukan tidak tersedia.  Berita pasar menunjukkan perbaikan kinerja keuangan, tetapi hal ini memerlukan konfirmasi lebih lanjut dari data keuangan yang lengkap.",
+            "sentimen_teknikal": "Netral hingga Bearish lemah (jangka pendek). Analisis teknikal sangat terbatas karena kurangnya pergerakan harga dan volume yang signifikan.  Indikator teknikal menunjukkan sinyal yang lemah dan tidak konklusif.",
+            "sentimen_berita": "Positif.  Berita pasar menunjukkan perbaikan kinerja keuangan WSKT dan penurunan utang yang signifikan, mengurangi risiko delisting. Namun, diperlukan konfirmasi lebih lanjut dari data yang lebih komprehensif.",
+            "insight": "Analisis komprehensif sulit dilakukan karena keterbatasan data. Meskipun berita pasar menunjukkan sentimen positif terkait perbaikan kinerja keuangan WSKT dan pengurangan utang, analisis teknikal tidak memberikan sinyal yang jelas karena kurangnya volatilitas harga.  Rekomendasi investasi tidak dapat diberikan tanpa data fundamental yang memadai.  Pemantauan berkelanjutan atas data keuangan dan pergerakan harga saham WSKT sangat disarankan sebelum membuat keputusan investasi.",
+            "created_at": "2025-05-12 01:20:14"
         },
         {
             "ticker": "PALM",
-            "sentimen_fundamental": "Lemah. Analisis fundamental menunjukkan kinerja keuangan PALM yang buruk dan berisiko, ditandai dengan fluktuasi pendapatan dan laba bersih yang signifikan, ROE dan ROA negatif, serta peningkatan rasio hutang terhadap ekuitas.  PBV yang tinggi mengindikasikan kemungkinan overvalued, namun data yang terbatas mengharuskan analisis lebih lanjut.",
-            "sentimen_teknikal": "Bearish (jangka pendek dan menengah).  Meskipun terdapat golden cross sebelumnya, indikator teknikal seperti MACD dan pergerakan harga menunjukkan tren bearish yang lemah. RSI mendekati level netral, sementara harga berada di dalam Bollinger Bands, mendekati batas bawah, menunjukkan potensi penurunan.",
-            "sentimen_berita": "Netral. Tidak ada informasi berita terkini yang tersedia untuk analisis.",
-            "insight": "Gabungan analisis fundamental dan teknikal menunjukkan gambaran yang negatif untuk saham PALM. Kinerja keuangan yang lemah dan sinyal bearish dari indikator teknikal menunjukkan risiko investasi yang tinggi.  Rekomendasi investasi adalah untuk menghindari pembelian saham PALM hingga ada perbaikan signifikan dalam kinerja keuangan dan sinyal teknikal yang lebih bullish.",
-            "created_at": "2025-05-10 21:01:56"
+            "sentimen_fundamental": "Lemah.  Analisis fundamental menunjukkan kinerja keuangan yang buruk dengan kerugian berkelanjutan, ROE dan ROA negatif, serta peningkatan DER.  Rasio PBV yang tinggi tidak diimbangi dengan kinerja yang baik, mengindikasikan saham overvalued.",
+            "sentimen_teknikal": "Bearish jangka pendek dan menengah. Analisis teknikal menunjukkan sinyal bearish yang didominasi oleh MACD negatif dan pergerakan harga di bawah EMA 20. Meskipun ada Golden Cross sebelumnya, momentum saat ini bearish.",
+            "sentimen_berita": "Netral. Tidak ada berita signifikan yang secara langsung mempengaruhi harga saham PALM.  Informasi dividen yang ditemukan relevan, tetapi tidak cukup untuk mengubah sentimen secara signifikan.",
+            "insight": "Analisis fundamental dan teknikal secara konsisten menunjukkan sentimen negatif terhadap saham PALM. Kinerja keuangan yang lemah dan sinyal bearish yang kuat membuat saham ini berisiko tinggi.  Meskipun ada informasi dividen, hal ini tidak cukup untuk mengatasi masalah fundamental yang serius. Rekomendasi investasi saat ini adalah menghindari saham PALM.",
+            "created_at": "2025-05-12 01:21:39"
         },
         {
             "ticker": "PSGO",
-            "sentimen_fundamental": "Netral. Pertumbuhan pendapatan stabil, namun profitabilitas fluktuatif dengan penurunan laba bersih yang signifikan di tahun 2024.  Rasio keuangan menunjukkan gambaran yang beragam, membutuhkan analisis lebih lanjut untuk menentukan valuasi yang tepat (undervalued/overvalued). Dividen yield menarik.",
-            "sentimen_teknikal": "Sideways/Bullish lemah (jangka pendek).  Sinyal teknikal beragam; MACD bullish, RSI mendekati overbought, Bollinger Bands menunjukkan potensi pullback. Death cross sebelumnya menunjukkan kelemahan tren.  Potensi bullish jangka pendek, namun membutuhkan konfirmasi lebih lanjut.",
-            "sentimen_berita": "Positif. Pengumuman dividen Rp8 per saham memberikan sentimen positif.  Namun, perlu dipertimbangkan konteks pasar yang lebih luas dan performa kompetitor.",
-            "insight": "Analisis fundamental dan teknikal menunjukkan gambaran yang beragam untuk PSGO.  Meskipun terdapat potensi bullish jangka pendek berdasarkan sinyal teknikal dan pengumuman dividen,  fluktuasi profitabilitas dan penurunan laba bersih di tahun 2024 menimbulkan kekhawatiran.  Perlu analisis lebih lanjut untuk menentukan apakah saham saat ini undervalued atau overvalued.  Rekomendasi investasi membutuhkan analisis fundamental yang lebih dalam dan perbandingan dengan kompetitor untuk memastikan profitabilitas jangka panjang perusahaan.",
-            "created_at": "2025-05-10 21:03:28"
+            "sentimen_fundamental": "Netral. Pertumbuhan pendapatan stabil, tetapi laba bersih dan EPS fluktuatif.  Rasio PE dan PBV rendah menunjukkan potensi undervalue, tetapi perlu dipertimbangkan volatilitas laba.  Perbaikan DER menunjukkan perbaikan struktur permodalan, tetapi penurunan ROE dan ROA perlu diinvestigasi.",
+            "sentimen_teknikal": "Bullish jangka pendek, Netral jangka menengah.  MACD bullish, tetapi RSI mendekati overbought, menunjukkan potensi koreksi harga.  Death cross sebelumnya menunjukkan kelemahan tren.  Perlu pemantauan ketat indikator teknikal.",
+            "sentimen_berita": "Netral. Tidak ada berita spesifik yang signifikan yang ditemukan dalam data yang diberikan.",
+            "insight": "Analisis fundamental menunjukkan potensi undervalue, tetapi volatilitas laba merupakan risiko. Analisis teknikal menunjukkan sinyal campuran, dengan potensi koreksi harga jangka pendek meskipun ada sinyal bullish jangka pendek.  Kurangnya berita signifikan saat ini membuat sentimen pasar netral.  Rekomendasi investasi membutuhkan analisis lebih lanjut dan pemantauan ketat untuk mengelola risiko, dan sebaiknya dilakukan dengan pendekatan yang hati-hati.",
+            "created_at": "2025-05-12 01:23:07"
         }
     ]
 }
