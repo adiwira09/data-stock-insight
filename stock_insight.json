@@ -41,14 +41,6 @@
             "created_at": "2025-05-14 21:45:59"
         },
         {
-            "ticker": "BBCA",
-            "sentimen_fundamental": "Unable to determine due to insufficient and inaccurate data provided.",
-            "sentimen_teknikal": "Bullish (Short to Medium Term).  Golden cross observed, price above EMA 20, MACD bullish; however, RSI nearing overbought conditions suggests potential correction.",
-            "sentimen_berita": "Positive sentiment.  Recent market news shows BBCA stock price increased significantly, likely driven by positive overall market sentiment and potential strength in the Indonesian banking sector.",
-            "insight": "Insufficient data to create a comprehensive investment strategy.  While technical indicators suggest a bullish trend in the short to medium term, the fundamental analysis is unreliable due to data inaccuracies.  More precise financial information is needed to assess valuation and determine a clear investment recommendation.",
-            "created_at": "2025-05-14 21:50:29"
-        },
-        {
             "ticker": "MTEL",
             "sentimen_fundamental": "Netral.  Pertumbuhan pendapatan dan profitabilitas positif, namun rasio valuasi (PER dan PBV) tinggi dan pertumbuhan EPS tidak konsisten.  ROE dan ROA meningkat, menunjukkan peningkatan efisiensi.  Dividend yield menarik, namun payout ratio tinggi.  Analisis lebih lanjut dibutuhkan untuk menentukan apakah undervalued atau overvalued.",
             "sentimen_teknikal": "Bullish jangka pendek, tetapi mixed. Indikator teknikal menunjukkan sinyal bullish lemah, dengan potensi koreksi. RSI mendekati overbought. Harga dekat upper Bollinger Bands.  Level resistance dan support telah teridentifikasi.",
