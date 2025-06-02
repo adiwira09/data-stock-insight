@@ -1,3 +1,20 @@
 {
-    "stocks": []
+    "stocks": [
+        {
+            "ticker": "SQMI",
+            "sentimen_fundamental": "Lemah. Analisis fundamental menunjukkan kinerja keuangan SQMI yang buruk, ditandai dengan pendapatan dan laba bersih yang negatif, ROE dan ROA negatif, serta rasio hutang terhadap ekuitas yang tinggi (2.91 pada 2023).  Valuasi saham tampak mahal (PBV 10.26) mengingat kinerja keuangan yang negatif.  Tidak ada pembayaran dividen.",
+            "sentimen_teknikal": "Bearish (jangka pendek dan menengah).  Meskipun terdapat golden cross sebelumnya, indikator teknikal saat ini (berdasarkan data sintetis) menunjukkan tren bearish, termasuk MACD bearish dan harga di bawah SMA 20 dan 50.  RSI netral (sekitar 55) tetapi tidak mengkonfirmasi sinyal bullish. Prediksi harga (berdasarkan data sintetis) menunjukkan pergerakan bearish jangka pendek dan menengah.",
+            "sentimen_berita": "Tidak tersedia. Analisis sentimen berita membutuhkan data berita real-time yang tidak tersedia.",
+            "insight": "Gabungan analisis fundamental dan teknikal (berdasarkan data sintetis) menunjukkan gambaran yang negatif untuk saham SQMI. Fundamental yang lemah, ditandai dengan kinerja keuangan yang buruk dan valuasi yang mahal, diperkuat oleh sinyal bearish dari indikator teknikal jangka pendek dan menengah.  Ketiadaan data berita real-time membatasi analisis sentimen pasar.  Secara keseluruhan, berdasarkan informasi yang tersedia, rekomendasi investasi saat ini adalah menghindari saham SQMI.",
+            "created_at": "2025-06-02 23:18:18"
+        },
+        {
+            "ticker": "ERAL",
+            "sentimen_fundamental": "Netral. Meskipun rasio PE dan PBV yang rendah serta dividend yield yang tinggi menunjukkan potensi undervaluation, kinerja keuangan ERAL menunjukkan volatilitas yang signifikan dalam pendapatan dan laba bersih, disertai dengan penurunan ROE dan ROA di tahun 2024.  Pertumbuhan pendapatan yang tinggi di tahun-tahun sebelumnya tidak berkelanjutan. Data yang hilang untuk tahun 2023 juga membatasi analisis yang komprehensif.",
+            "sentimen_teknikal": "Bullish (jangka pendek dan menengah). Analisis teknikal menunjukkan tren bullish yang kuat, didukung oleh golden cross, harga di atas EMA 20, dan sinyal bullish dari MACD.  Meskipun RSI menunjukkan kondisi netral dan ada beberapa sinyal koreksi minor,  momentum bullish masih dominan. Target harga jangka pendek (1 minggu) sekitar 290.93 dan jangka menengah (1 bulan) sekitar 293.87.",
+            "sentimen_berita": "Tidak tersedia. Analisis sentimen berita membutuhkan informasi real-time yang tidak tersedia saat ini.",
+            "insight": "Analisis gabungan menunjukkan gambaran yang mixed.  Potensi undervaluation dari segi fundamental harus diimbangi dengan volatilitas kinerja keuangan dan kurangnya data tahun 2023.  Meskipun analisis teknikal menunjukkan tren bullish yang kuat,  kehati-hatian tetap diperlukan.  Kurangnya data berita pasar membatasi kemampuan untuk mempertimbangkan sentimen pasar terkini.  Strategi investasi yang berhati-hati dengan manajemen risiko yang ketat sangat disarankan.  Pemantauan berkelanjutan terhadap kinerja keuangan ERAL, indikator teknikal, dan berita pasar sangat penting sebelum mengambil keputusan investasi.",
+            "created_at": "2025-06-02 23:19:47"
+        }
+    ]
 }
