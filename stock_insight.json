@@ -1,36 +1,3 @@
 {
-    "stocks": [
-        {
-            "ticker": "TLKM",
-            "sentimen_fundamental": "Netral.  TLKM menunjukkan kinerja keuangan yang stabil dengan pendapatan yang konsisten tetapi pertumbuhan laba yang terbatas.  ROE yang baik diimbangi oleh ROA yang menurun dan rasio payout yang tinggi.  Valuasi saham masih perlu dikaji lebih lanjut dengan membandingkannya dengan perusahaan sejenis, namun indikasi awal menunjukkan potensi sedikit overvalued berdasarkan PBV Ratio. Dividen yield yang tinggi menjadi daya tarik bagi investor.",
-            "sentimen_teknikal": "Bullish (jangka pendek dan menengah).  Indikator teknikal menunjukkan tren bullish yang kuat, didukung oleh golden cross pada SMA 20 dan 50, serta MACD positif.  Namun, RSI mendekati wilayah overbought dan beberapa indikator menunjukkan potensi pelemahan momentum bullish. Level resistance terdekat menjadi area penting untuk dipantau.",
-            "sentimen_berita": "Positif. Berita terkini mengenai akumulasi saham oleh investor institusional menjelang pembagian dividen dan rencana buyback saham mendukung sentimen bullish. Kenaikan harga saham dan peningkatan dividen per lembar saham juga memperkuat sentimen positif ini, meskipun penurunan laba bersih.",
-            "insight": "Secara keseluruhan, analisis terintegrasi menunjukkan gambaran yang mixed untuk TLKM.  Meskipun sentimen pasar dan analisis teknikal menunjukkan tren bullish jangka pendek dan menengah, analisis fundamental menimbulkan beberapa kekhawatiran mengenai pertumbuhan laba dan valuasi.  Dividen yield yang tinggi tetap menjadi daya tarik utama.  Strategi investasi yang hati-hati dengan manajemen risiko yang ketat disarankan.  Pemantauan yang ketat terhadap indikator teknikal, berita pasar, dan perbandingan dengan kompetitor sangat penting untuk pengambilan keputusan investasi yang tepat.  Potensi overvalued perlu dikonfirmasi dengan analisis perbandingan yang lebih komprehensif terhadap perusahaan sejenis.",
-            "created_at": "2025-06-01 22:41:56"
-        },
-        {
-            "ticker": "CUAN",
-            "sentimen_fundamental": "Lemah. Analisis fundamental menunjukkan volatilitas kinerja keuangan yang signifikan, ditandai dengan fluktuasi pendapatan, laba bersih, dan EPS. Rasio keuangan seperti ROE dan ROA juga tidak konsisten, sementara DER yang tinggi (1.44 di 2024) menunjukkan risiko keuangan yang signifikan.  Valuasi saham terlihat overvalued berdasarkan rasio P/E dan P/BV yang tinggi, meskipun perlu analisis lebih lanjut untuk konfirmasi. Kebijakan dividen juga tampak tidak stabil.",
-            "sentimen_teknikal": "Bullish (jangka pendek), Netral (jangka menengah). Analisis teknikal menunjukkan sinyal bullish jangka pendek yang kuat, ditunjukkan oleh golden cross, harga di atas EMA 20, dan MACD bullish. Namun, RSI yang overbought (72.8) dan posisi harga dekat batas atas Bollinger Bands menunjukkan potensi koreksi harga dalam jangka pendek.  Secara keseluruhan, tren utama bullish, tetapi potensi penurunan harga perlu dipertimbangkan.",
-            "sentimen_berita": "Tidak tersedia.  Analisis sentimen berita tidak dapat dilakukan karena keterbatasan akses ke data berita real-time.",
-            "insight": "Meskipun analisis teknikal menunjukkan sinyal bullish jangka pendek yang kuat, analisis fundamental menunjukkan gambaran yang lemah karena volatilitas kinerja keuangan dan valuasi yang tinggi.  Ketidakstabilan ini dikombinasikan dengan kurangnya informasi dari sentimen berita membuat keputusan investasi menjadi sangat berisiko.  Koreksi harga jangka pendek mungkin terjadi mengingat RSI yang overbought.  Rekomendasi investasi membutuhkan analisis lebih lanjut, termasuk perbandingan dengan perusahaan sejenis, proyeksi pertumbuhan masa depan, analisis arus kas, dan akses ke data berita terkini untuk penilaian yang lebih akurat.  Pendekatan yang hati-hati dan strategi manajemen risiko yang ketat sangat penting.",
-            "created_at": "2025-06-01 22:43:30"
-        },
-        {
-            "ticker": "PTRO",
-            "sentimen_fundamental": "Lemah. Pertumbuhan pendapatan positif tetapi laba bersih dan EPS fluktuatif dan negatif. ROE dan ROA fluktuatif, menunjukkan inefisiensi operasional.  Peningkatan rasio hutang meningkatkan risiko keuangan.  Valuasi saham (dengan catatan perlu validasi ulang angka Market Cap dan PBV ratio yang ekstrim) menunjukkan potensi overvaluation yang signifikan. Meskipun dividend yield tinggi, risiko fundamental yang besar mengurangi daya tarik investasi.",
-            "sentimen_teknikal": "Sideways (jangka pendek bullish, jangka menengah sideways). Tren utama bullish ditunjukkan oleh golden cross SMA dan EMA, serta harga di atas SMA 20 dan 50. Namun, sinyal bearish dari MACD dan divergensi bearish pada RSI menunjukkan potensi koreksi atau konsolidasi.  Prediksi jangka pendek bullish, namun jangka menengah sideways.",
-            "sentimen_berita": "Netral. Tidak ada berita terkini yang relevan untuk analisis sentimen pasar.",
-            "insight": "Analisis gabungan menunjukkan gambaran yang mixed untuk PTRO.  Potensi pertumbuhan pendapatan diimbangi oleh profitabilitas yang lemah dan peningkatan risiko keuangan.  Analisis teknikal menunjukkan tren bullish jangka pendek tetapi sinyal bearish menunjukkan potensi koreksi.  Ketidakpastian terkait validasi data fundamental (Market Cap dan PBV ratio) menimbulkan kekhawatiran.  Secara keseluruhan, dibutuhkan informasi tambahan dan validasi data untuk membuat keputusan investasi yang informasional.  Rekomendasi menunggu validasi data fundamental dan pemantauan ketat indikator teknikal sebelum mengambil posisi.",
-            "created_at": "2025-06-01 22:45:00"
-        },
-        {
-            "ticker": "MUTU",
-            "sentimen_fundamental": "Tidak dapat dinilai. Data keuangan untuk saham MUTU tidak ditemukan.",
-            "sentimen_teknikal": "Bearish (jangka pendek dan menengah). Analisis teknikal menunjukkan tren bearish lemah, dengan beberapa indikator menunjukkan potensi reversal. Namun, dominasi sinyal bearish dan prediksi harga jangka pendek dan menengah menunjukkan pergerakan turun.  RSI netral, MACD bearish, dan harga mendekati bagian bawah Bollinger Bands mendukung sentimen bearish.",
-            "sentimen_berita": "Tidak dapat dinilai. Tidak ada data berita yang tersedia untuk analisis.",
-            "insight": "Karena keterbatasan data fundamental dan berita, analisis investasi hanya dapat didasarkan pada analisis teknikal.  Analisis teknikal menunjukkan sentimen bearish untuk jangka pendek dan menengah, dengan potensi reversal.  Namun, tanpa informasi fundamental dan berita,  kesimpulan yang kuat dan rekomendasi investasi yang jelas tidak dapat diberikan.  Disarankan untuk mengumpulkan data fundamental dan berita pasar yang relevan sebelum membuat keputusan investasi.  Pemantauan indikator kunci dan perkembangan pasar sangat penting untuk mengkonfirmasi sinyal dan menyesuaikan strategi.",
-            "created_at": "2025-06-01 22:46:25"
-        }
-    ]
+    "stocks": []
 }
